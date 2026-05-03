@@ -4,8 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'gymora-backend.onrender.com',
-        port: '5000',
+        hostname: 'gymora-backend-1.onrender.com',
         pathname: '/api/uploads/**',
       },
       // Add this when you deploy to production
