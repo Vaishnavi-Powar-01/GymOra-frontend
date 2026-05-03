@@ -25,6 +25,7 @@ async function getProduct(slug) {
 
 export default async function ProductDetailsPage({ params }) {
   const slug = params?.slug;
+  console.log("Slug:", slug);
 
   if (!slug) return notFound();
 
