@@ -25,7 +25,7 @@
     "jspdf-autotable": "^5.0.2",
     "lucide-react": "^0.523.0",
     "multer": "^2.0.2",
-    "next": "^15.3.4",
+    "next": "^16.2.4",
     "nodemailer": "^7.0.5",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
