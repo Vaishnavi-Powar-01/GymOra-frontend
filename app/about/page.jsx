@@ -430,3 +430,4 @@ const GymManufacturingAbout = () => {
 };
 
 export default GymManufacturingAbout;
+

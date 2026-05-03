@@ -3,8 +3,8 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'http',
-        hostname: 'localhost',
+        protocol: 'https',
+        hostname: 'gymora-backend-1.onrender.com',
         port: '5000',
         pathname: '/api/uploads/**',
       },
